@@ -1,0 +1,6 @@
+dist/
+.DS_Store
+*.log
+*.tgz
+.env
+_site/
